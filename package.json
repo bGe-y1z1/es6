@@ -1,0 +1,25 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "es6的学习记录",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bGe-y1z1/es6.git"
+  },
+  "keywords": [
+    "es6"
+  ],
+  "author": "djh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bGe-y1z1/es6/issues"
+  },
+  "homepage": "https://github.com/bGe-y1z1/es6#readme",
+  "devDependencies": {
+    "eslint": "^7.1.0"
+  }
+}
